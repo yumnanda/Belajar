@@ -10,4 +10,4 @@ Heading 1
 =========
 Heading 2
 ---------
-
+> Hidup kadang melelahkan, tapi dengan bersyukur lelah itu tak akan terasa  

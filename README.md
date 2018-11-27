@@ -19,6 +19,5 @@ Heading 2
 > - Yumna
 > - Nanda
 > - Abid 
-> - Saputra
-> **Yumnanda Abid Saputra**
-
+> - Saputra  
+<span style="width: 200px; height: 50px; background-color: lightblue;">Yumnanda Abid Saputra</span>
